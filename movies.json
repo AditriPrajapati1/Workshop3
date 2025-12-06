@@ -2,9 +2,9 @@
   "movies": [
     {
       "id": "667a",
-      "title": "Hii",
-      "genre": "comedy",
-      "year": 1998
+      "title": "Titanic",
+      "year": 1998,
+      "genre": "Tradegy"
     },
     {
       "id": "0a61",
